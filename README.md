@@ -1,4 +1,6 @@
 # Lecture-Notes
-This repo is for my lecture notes.
+Take a note at my website for a more organized view of these notes
+alifele.github.io
+
 
 
